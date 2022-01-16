@@ -1,0 +1,29 @@
+body{
+    margin:  0 ;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: aquamarine;
+}
+
+nav a{
+    padding: 0 30px;
+}
+
+.colonnone{
+    padding: 0 50px;
+}
+
+.section1{
+    height: 400px;
+    background-color: bisque;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
